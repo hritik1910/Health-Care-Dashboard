@@ -53,3 +53,4 @@ Improves data-driven decision-making for resource allocation, operational planni
 To transform hospital data into actionable insights by providing an interactive view of patient flow, bed occupancy, diagnosis trends, doctor feedback, billing, and insurance performance, enabling hospital management to make faster and more informed operational and financial decisions.
 
 ## 6. Screenshot
+My Dashboard looks like. (https://github.com/hritik1910/Health-Care-Dashboard/blob/main/Dashboard.png).
