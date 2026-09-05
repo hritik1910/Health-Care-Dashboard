@@ -1,16 +1,16 @@
 # Healthcare Analytics Dashboard
 
-## 2. Short Description / Purpose
+## 1. Short Description / Purpose
 Developed an interactive healthcare analytics dashboard in Power BI to analyze patient flow, hospital bed occupancy, diagnoses, doctor feedback, billing amounts, and health insurance performance. The dashboard provides hospital management with a consolidated view of operational, clinical, and financial KPIs, enabling data-driven decision-making and better resource planning.
 
-## 3. Tech Stack
+## 2. Tech Stack
 • 📊 Power BI – Dashboard development, data visualization & interactive reporting
 • 📂 Power Query – Data cleaning, transformation and preprocessing
 • 🧠 DAX – KPI calculations, measures and data analysis
 • 📝 Data Modeling – Relationships and structured analytical model
 • 📈 Excel / CSV – Data source and preprocessing
 
-## 4. Features / Highlights
+## 3. Features / Highlights
 Goal of the Dashboard
 The goal was to create an interactive, centralized dashboard that helps hospital stakeholders monitor key operational and financial metrics and quickly identify important trends.
 
@@ -49,8 +49,8 @@ Supports analysis of doctor feedback and service performance.
 Helps compare insurance coverage against billing amounts.
 Improves data-driven decision-making for resource allocation, operational planning and financial monitoring.
 
-## 5. Goal of the Dashboard
+## 4. Goal of the Dashboard
 To transform hospital data into actionable insights by providing an interactive view of patient flow, bed occupancy, diagnosis trends, doctor feedback, billing, and insurance performance, enabling hospital management to make faster and more informed operational and financial decisions.
 
-## 6. Screenshot
+## 5. Screenshot
 My Dashboard looks like. (https://github.com/hritik1910/Health-Care-Dashboard/blob/main/Dashboard.png).
